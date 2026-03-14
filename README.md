@@ -1,4 +1,3 @@
-
 ## Face Detection using OpenCV (Python)
 
 ### 📌 Project Overview
